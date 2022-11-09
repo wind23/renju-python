@@ -8,7 +8,7 @@ long_description = (this_directory / "README.md").read_text(encoding='utf-8')
 setup(
     name='renju',
     packages=['renju'],
-    version='0.0.0',
+    version='0.0.1',
     license='MIT',
     description='A simple library for the game board of renju.',
     long_description=long_description,
@@ -16,7 +16,7 @@ setup(
     author='Tianyi Hao',
     author_email='haotianyi0@126.com',
     url='https://github.com/wind23/renju-python',
-    download_url='https://github.com/wind23/renju-python/archive/0.0.0.tar.gz',
+    download_url='https://github.com/wind23/renju-python/archive/0.0.1.tar.gz',
     keywords=['renju'],
     install_requires=[],
     classifiers=[
